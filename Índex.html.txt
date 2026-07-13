@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kailainny Fernanda | Psicóloga</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container">
+
+<img src="foto.jpg" class="foto">
+
+<h1>Kailainny Fernanda</h1>
+
+<p class="cargo">PSICÓLOGA</p>
+
+<p class="frase">
+Cuidar da sua saúde mental também é um ato de amor.
+</p>
+
+<a class="botao" href="https://wa.me/5562993841992?text=Olá,%20gostaria%20de%20agendar%20uma%20sessão!" target="_blank">
+Agende Aqui
+</a>
+
+<a class="botao" href="https://maps.app.goo.gl/WXkZNxBBjPho5xGP8?g_st=iwb" target="_blank">
+Localização
+</a>
+
+<a class="botao" href="https://www.instagram.com/psikailainny?utm_source=qr" target="_blank">
+Instagram
+</a>
+
+<a class="botao" href="https://share.google/zmqXhnFbINGEjXh3R" target="_blank">
+Google
+</a>
+
+<footer>
+© Kailainny Fernanda
+</footer>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
